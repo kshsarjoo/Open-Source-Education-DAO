@@ -23,7 +23,7 @@ EducationDAO is a decentralized autonomous organization (DAO) designed to suppor
 
 ## Smart Contract
 ### Contract Address
-`<INSERT_CONTRACT_ADDRESS_HERE>`  
+0x73E764fC48dcb2cBE7899CFC98088d290857a9AB  
 Deployed on the Ethereum network, this contract governs the proposal, voting, and execution processes within the EducationDAO.
 
 ### Functions
@@ -41,19 +41,5 @@ Deployed on the Ethereum network, this contract governs the proposal, voting, an
 ## Contact
 For more information or inquiries, please reach out to:
 
-**Name**: [Your Name]  
-**Email**: [your.email@example.com]  
-**LinkedIn**: [Your LinkedIn Profile]  
-**GitHub**: [Your GitHub Profile]
-
----
-
-**Note**: This project is in its early stages, and we welcome contributions from the community to help shape the future of open-source education.
-```
-
-### Summary:
-- **Vision**: Provides an overview of the project's purpose.
-- **Flowchart**: Visualizes the process flow in the DAO.
-- **Smart Contract**: Describes key functions and provides the contract address.
-- **Future Scope**: Outlines potential future developments.
-- **Contact**: Lists your contact details for further communication.
+**Name**:Ksh Sarjoo Leima Singha
+**Email**: kshsarjooleimasingha6@gmail.com 
