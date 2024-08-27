@@ -1,5 +1,5 @@
 # EducationDAO
-### <img src"Screenshot (27).png" width="400"/>
+### <img src="Screenshot (27).png" alt="Project Logo" width="400"/>
 ## Vision
 EducationDAO is a decentralized autonomous organization (DAO) designed to support open-source educational resources. By leveraging blockchain technology, EducationDAO enables a transparent and democratic process where members can propose and vote on initiatives that advance open education for all.
 
